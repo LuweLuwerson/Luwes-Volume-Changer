@@ -1,0 +1,4 @@
+keyboard
+pycaw
+pywin32
+psutil

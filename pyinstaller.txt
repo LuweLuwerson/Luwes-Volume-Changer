@@ -1,0 +1,2 @@
+Run this in CMD to create the exe manually:
+pyinstaller --onefile --windowed --icon=image.ico --add-data "image.ico;." --add-data "disabled.ico;." main.py
